@@ -30,8 +30,6 @@ For communities, that means a cleaner way to guide participation, feedback and p
 
 These repositories explain how Amy is structured across product, rewards, access and user experience.
 
-## Status
-
-Amy is in active development.
+## Company
 
 Amy On Bera Ltd is a UK software company building consumer web tools for dashboards, rewards, access, engagement and education.
