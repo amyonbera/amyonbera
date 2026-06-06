@@ -23,9 +23,12 @@ For communities, that means a cleaner way to guide participation, feedback and p
 
 ## Public repositories
 
-- [`platform-overview`](https://github.com/amyonbera/platform-overview) — overview of Amy’s product direction, platform structure and user-facing tools.
+- [platform-overview](https://github.com/amyonbera/platform-overview) — overview of Amy’s product direction, platform structure and user-facing tools.
+- [product-principles](https://github.com/amyonbera/product-principles) — principles behind Amy’s user experience, privacy approach and product design.
+- [rewards-framework](https://github.com/amyonbera/rewards-framework) — public notes on Amy’s rewards, points, badges and user progress systems.
+- [platform-technology](https://github.com/amyonbera/platform-technology) — public notes on Amy’s platform structure, integrations and technical approach.
 
-More public documentation will be added as the product develops.
+These repositories explain how Amy is structured across product, rewards, access and user experience.
 
 ## Status
 
