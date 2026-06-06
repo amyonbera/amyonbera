@@ -47,6 +47,8 @@ AMY ON BERA LTD is a UK software company building consumer web tools for dashboa
 
 AMY ON BERA LTD is registered in England and Wales under company number **17260558**.
 
-Amy operates within the Berachain ecosystem and has participated in ecosystem activity including the Hibernator programme and thirdweb-supported builder activity.
+Amy's early community formed around Berachain, where the AMY token began as part of the community and access layer. Amy's software product is designed for a broader consumer tooling framework, with Berachain currently serving as an important ecosystem focus for rewards, strategies and community activity.
+
+Amy has participated in builder activity including the Hibernator programme and thirdweb-supported initiatives.
 
 AMY ON BERA LTD does not operate as an exchange, broker, custodian, lender, investment manager or cryptoasset trading firm, and does not hold or manage client funds. Company revenue is expected to come from software services, subscriptions, partner integrations and product operations.
